@@ -1,0 +1,22 @@
+melihat versi git
+  git --version
+
+Konfigurasi git (sekali saja)
+  git config --global user.name "Toyibin"
+  git config --global user.email "toyibinelektro@gmail.com"
+
+Melihat Konfigurasi git
+  git config --list
+  
+Initial git ke folder  
+  git init
+  
+Status folder
+  git status
+  
+Menambahkan file
+  git add script_1.php
+  
+Menambahkan semua file dan folder
+  git add -A
+  
