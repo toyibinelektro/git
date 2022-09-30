@@ -23,5 +23,8 @@ Menambahkan semua file dan folder agar perubahan file tsb bisa di track
 Mengirim perubahan
   git commit -m"ini commit pertama"
   
-Melihat log perubahan
+Melihat log commit
   git log
+
+Melihat perubahan yg belum di commit
+  git diff
